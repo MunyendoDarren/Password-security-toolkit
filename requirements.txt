@@ -1,0 +1,5 @@
+# No external dependencies are required — this project only uses
+# Python's standard library (hashlib, math, re, time, unittest).
+#
+# Optional, if you extend the project:
+# zxcvbn>=4.4.28        # for a second, industry-standard entropy estimate
